@@ -1,0 +1,39 @@
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    color: white;
+    background-color: red;
+    padding: 20px;
+    font-size: 50px;
+    text-align: end;
+}
+
+.content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:yellow;
+
+    
+}
+
+.container {
+    background-color:whitesmoke;
+    width: 500px;
+    height: 500px;
+    border: solid;
+    border-width: 20px;
+    border-color: red;
+    border-radius: 15px;
+   
+}
