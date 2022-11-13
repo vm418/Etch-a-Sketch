@@ -6,7 +6,7 @@ const erase = document.querySelectorAll('#erase');
 
 function gridSize() {    
 // changes number of pixels in the container max number of 100 x 100
-    let number = prompt("Enter a number betweem 1 and 100");
+    let number = prompt("Enter a number between 1 and 100");
     if (number <= 100){
         // remove pixel divs within container
         while(container.firstChild) {
