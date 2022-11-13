@@ -2,7 +2,7 @@
 ## [Live Preview](https://vm418.github.io/Etch-a-Sketch/)
 
 
-<img src="https://user-images.githubusercontent.com/78382891/201535634-4909b0fd-33fb-49f8-9418-d481d85c6286.png" width="50%"/>
+<img src="https://user-images.githubusercontent.com/78382891/201536344-b61abe8d-f82c-42de-bd6c-97be08231f0e.png" width="50%"/>
 
 - Built a web app that allows user to sketch on a virtual sketchpad using JavaScript, CSS and Html
 - Added functionality of allowing the user to pick the number of pixels in the sketchpad, erasing pixels and 
