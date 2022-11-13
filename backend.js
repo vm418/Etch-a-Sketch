@@ -69,7 +69,7 @@ erase[0].addEventListener('click', () =>{
 // if mouse hovers of any pixel div change it's background color 
 const pixels = container.querySelectorAll('.pixel');
 pixels.forEach((pixel) => {
-    pixel.addEventListener('mouseover', () =>{
+    pixel.addEventListener('mousedown', () =>{
         pixel.style.backgroundColor = color ;
     });
 });
